@@ -2,7 +2,7 @@ from sys import argv
 script, filename=argv 
 
 import indicoio
-indicoio.config.api_key = '5937b9028ff33bc6b342a1242ee39dad'
+indicoio.config.api_key = ''
 
 import numpy
 import matplotlib.pyplot as plt
